@@ -10,9 +10,10 @@ We would like to focus on its technical aspects such as geometry and properties 
 3B: Propose a (design for a) tool / workflow
 
 3.	Process: 
-	
+	![image](https://user-images.githubusercontent.com/114358326/198904187-e13c837f-2d97-4174-a5f2-19e05bdbc197.png)
  BPMN model for current Structural use case.
- 
+
+![Przechwytywanie2](https://user-images.githubusercontent.com/114358326/198904215-21980c06-0209-4ae9-8a86-eac8c3553b8f.PNG)
 BPMN model for your proposed tool.
 
 4.	Description of the process of your tool / workflow:
