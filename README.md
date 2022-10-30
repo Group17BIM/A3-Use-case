@@ -24,6 +24,8 @@ Usually first step would be to get source data from reference files/assumptions.
 5.	Information Exchange: 
    
 Here is preview of Use_case_INFX_Team_05.xlsx file.
+![Przechwytywanie3](https://user-images.githubusercontent.com/114358326/198904295-5dca419e-386b-42a0-bafe-03ffe1588373.PNG)
+
 
 6.	IFC: For our process we need detailed information about construction materials e.g. load bearing, stabilizing layer. Some of IFC data: IFC beam, iFC name, IFC type, IFC wall, IFC geometry, IFC space, IFC material. In general Level Of Development should be 400 but lower rating could also be useful. More precise values for parts are: 400 for Level Of Information, 300 for Level Of Reliability, 325 for Level Of Geometry. Detailed value for each entity is reached by analyzing Dikon files and they are shown in early mentioned xlsx file. Results have to be compared with requirements sheets like BR 18 where is possibility to stuck to correct limits. For intended situations all entities properties should pass this challenge but if there are some mismatches, corrections could be done using provided tools.
 We are assuming providing information with other stakeholders about final structural model and the prototype of this model too. From them we receive feedback that gives us ability to make improvements in IFC model which is ours input data to the “material of interest”.
@@ -59,6 +61,7 @@ Step III: Find beams in this building.
 Step IV: Get values of parameters that we had described in our workflow.
 Step V: Check results with norms like BR 18 for instance.
 Step VI: Show results to the client in easy to read form of html file (that is presented below).
+![Przechwytywanie4](https://user-images.githubusercontent.com/114358326/198904313-00493e63-072d-409d-9d4f-92e2c21019c9.PNG)
 
  
 
